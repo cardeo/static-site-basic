@@ -1,1 +1,1 @@
-static site boiler plate
+static site boiler plate with Bootstrap
